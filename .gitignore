@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# 运行时产物（可再生，不入库）
+logs/
+md5.txt
+md5.text
+chroma_db/
+
+# 密钥与本地环境
+.env
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+
+# 系统
+.DS_Store
+Thumbs.db

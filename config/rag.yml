@@ -1,0 +1,3 @@
+chat_model_name : qwen3.7-flash
+embedding_model_name : qwen3.7-text-embedding-flash
+OPENAI_BASE_URL: https://llm-960u8ajzqgkh1ee2.cn-beijing.maas.aliyuncs.com/compatible-mode/v1
